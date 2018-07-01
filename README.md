@@ -16,3 +16,16 @@ Android SDK
 
 # Installing
 Download the apk and install
+
+# Deployment
+Android devices
+
+# Authors
+Chriss Ngure Mwadime
+
+# Acknowledgments
+Google
+Udacity
+Andela
+ALC 3.0
+Google Africa Scholarship

@@ -14,5 +14,5 @@ IDE (Android Studio)
 Java 8
 Android SDK
 
-#Installing
+# Installing
 Download the apk and install
